@@ -1,0 +1,16 @@
+html, body{
+    height: 100vh;
+    width: 100vw;
+    margin: 0%;
+    padding: 0%;
+}
+.head{
+
+    text-align: center;
+    margin-top: 4rem;
+    margin-bottom: 3rem;
+}
+.get_input input{
+    height: 40px;
+    width: 50%;
+}
